@@ -3,7 +3,7 @@
 002 "V:0.3"
 003 FIX 2
 004*LBL e 
-005 "OBS *O+EaTc/" (Observe, Objects, Add objects, Equipment, add equipment, Template, clear Cur-file)
+005 "OBS *O+EaTc/" (OBS: Observe, Browse objects, Add objects, Browse equipment, add equipment, Template, clear Cur-file)
 006 PMTK
 007 GTO IND X
 008*LBL 02

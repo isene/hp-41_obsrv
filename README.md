@@ -11,7 +11,7 @@ Here is the menus throughout: the program:
 
 Menu	|Description
 ----------------|-----------
-"OBS *O+EaTc/" | (Observe, Objects, Add objects, Equipment, add equipment, Template, clear Cur-file)
+"OBS *O+EaTc/" | (OBS: Observe, Browse objects, Add objects, Browse equipment, add equipment, Template, clear Cur-file)
 "? S123VOGNX/" | (Browse: Solar system, Star, 2xStar, 3xStar, Variable star, Open cluster, Globular, Nebulae, Galaxy, [up])
 "+ S123VOGNX/" | (Add: Solar system, Star, 2xStar, 3xStar, Variable star, Open cluster, Globular, Nebulae, Galaxy, [up])
 "? SEBF/" | (Browse: Scope, Eyepiece, Barlow, Filter)
