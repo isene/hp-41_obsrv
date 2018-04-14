@@ -19,4 +19,5 @@ Menu	|Description
 
 The rest of the program should be fairly self explanatory when using it. Try it out, experiment :-)
 
-
+## License
+This software is released into the Public Domain.
